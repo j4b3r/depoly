@@ -1,4 +1,4 @@
-name: "simple_net"
+name: "1"
 platform: "pytorch_libtorch"
 max_batch_size: 32
 
